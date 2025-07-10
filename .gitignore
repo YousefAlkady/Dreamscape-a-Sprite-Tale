@@ -1,0 +1,20 @@
+# Ignore compiled files
+*.exe
+*.obj
+*.o
+*.out
+
+# Backup or temp files
+*.log
+*.tmp
+*.bak
+
+# IDE-specific ignores (optional)
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+ipch/
